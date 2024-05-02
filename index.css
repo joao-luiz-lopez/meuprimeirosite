@@ -1,0 +1,31 @@
+a {
+    background-color: #e02201; /* Green */
+    border: none;
+    color: rgb(7, 6, 4);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  p{
+    text-align: center;
+  }
+
+#imagem_principal{
+width:95% ;
+height: 40%; 
+  
+  
+}
+
+/*aqui*/
+div{
+  margin-left:35% ;
+  margin-right:35% ;
+}
+
+
+
+  
